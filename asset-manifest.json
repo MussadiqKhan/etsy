@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/etsy/static/css/main.0c9f656a.chunk.css",
+    "main.js": "/etsy/static/js/main.dc5644c1.chunk.js",
+    "main.js.map": "/etsy/static/js/main.dc5644c1.chunk.js.map",
+    "runtime~main.js": "/etsy/static/js/runtime~main.f9cf03d1.js",
+    "runtime~main.js.map": "/etsy/static/js/runtime~main.f9cf03d1.js.map",
+    "static/js/2.46d8979f.chunk.js": "/etsy/static/js/2.46d8979f.chunk.js",
+    "static/js/2.46d8979f.chunk.js.map": "/etsy/static/js/2.46d8979f.chunk.js.map",
+    "index.html": "/etsy/index.html",
+    "precache-manifest.aba84658a6e2256c6d123ccbaca1fe56.js": "/etsy/precache-manifest.aba84658a6e2256c6d123ccbaca1fe56.js",
+    "service-worker.js": "/etsy/service-worker.js",
+    "static/css/main.0c9f656a.chunk.css.map": "/etsy/static/css/main.0c9f656a.chunk.css.map"
+  }
+}

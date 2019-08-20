@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "882e7f53c8dd0b0606310c1cbd01717c",
+    "revision": "1b5cd11fd642ee58bacaba8deb6239e3",
     "url": "/etsy/index.html"
   },
   {
-    "revision": "63d7217f2b5d1fca2ba4",
+    "revision": "ce82520c01be751b4d35",
     "url": "/etsy/static/css/main.0ca267aa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/etsy/static/js/2.92f712a9.chunk.js"
   },
   {
-    "revision": "63d7217f2b5d1fca2ba4",
-    "url": "/etsy/static/js/main.7195d925.chunk.js"
+    "revision": "ce82520c01be751b4d35",
+    "url": "/etsy/static/js/main.f2a4c20e.chunk.js"
   },
   {
     "revision": "45d2114bc2c2fa3f3e9c",

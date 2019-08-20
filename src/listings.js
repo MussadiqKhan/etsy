@@ -7,7 +7,6 @@ const Listings = props => {
       <a href={props.url}>
         <div className={style.recipe}>
           <h1 className={style.h1}>{props.title}</h1>
-
           <p>
             <b>Price: </b>${props.price}
           </p>

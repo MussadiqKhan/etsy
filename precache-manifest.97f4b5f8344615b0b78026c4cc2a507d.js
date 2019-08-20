@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5cd11fd642ee58bacaba8deb6239e3",
+    "revision": "521cfa95dbae3b41c7f63ccc20a02a34",
     "url": "/etsy/index.html"
   },
   {
-    "revision": "ce82520c01be751b4d35",
+    "revision": "205021823b5beeeb67de",
     "url": "/etsy/static/css/main.0ca267aa.chunk.css"
   },
   {
-    "revision": "532d0af2f37b30efaf07",
-    "url": "/etsy/static/js/2.92f712a9.chunk.js"
+    "revision": "bc4ce50303c628df4cbf",
+    "url": "/etsy/static/js/2.3d26f6eb.chunk.js"
   },
   {
-    "revision": "ce82520c01be751b4d35",
-    "url": "/etsy/static/js/main.f2a4c20e.chunk.js"
+    "revision": "205021823b5beeeb67de",
+    "url": "/etsy/static/js/main.85f71113.chunk.js"
   },
   {
     "revision": "45d2114bc2c2fa3f3e9c",

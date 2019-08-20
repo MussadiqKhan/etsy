@@ -76,7 +76,6 @@ function App() {
             price={recipe.price}
             url={recipe.url}
             fav={recipe.num_favorers}
-            image={recipe.MainImage.url_fullxfull}
             api=""
             //ingredients={recipe.recipe.ingredients}
           />

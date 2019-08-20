@@ -6,7 +6,6 @@ const Listings = props => {
     <div>
       <a href={props.url}>
         <div className={style.recipe}>
-          <img className={style.image} src={props.image} alt="" />
           <h1 className={style.h1}>{props.title}</h1>
 
           <p>
